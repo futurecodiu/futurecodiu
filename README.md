@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 
+
+I see this user is a Chinese college student who is good at nothing. Is there anything else I can help you with?
+
+```
+                                                                         
+,--.  ,--.       ,--.,--.           ,--.   ,--.              ,--.   ,--. 
+|  '--'  | ,---. |  ||  | ,---.     |  |   |  | ,---. ,--.--.|  | ,-|  | 
+|  .--.  || .-. :|  ||  || .-. |    |  |.'.|  || .-. ||  .--'|  |' .-. | 
+|  |  |  |\   --.|  ||  |' '-' '    |   ,'.   |' '-' '|  |   |  |\ `-' | 
+`--'  `--' `----'`--'`--' `---'     '--'   '--' `---' `--'   `--' `---'  
+                                                                                                                                                                          
+```
+
+
 
 <!--
 **futurecodiu/futurecodiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
